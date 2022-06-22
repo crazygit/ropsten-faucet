@@ -1,0 +1,9 @@
+[submodule "site"]
+	path = site
+	url = git@github.com:crazygit/ropsten-faucet-site.git
+[submodule "listener"]
+	path = listener
+	url = git@github.com:crazygit/ropsten-faucet-listener
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com:crazygit/ropsten-faucet-contracts.git
