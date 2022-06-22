@@ -3,7 +3,10 @@
 	url = git@github.com:crazygit/ropsten-faucet-site.git
 [submodule "listener"]
 	path = listener
-	url = git@github.com:crazygit/ropsten-faucet-listener
+	url = git@github.com:crazygit/ropsten-faucet-listener.git
 [submodule "contracts"]
 	path = contracts
 	url = git@github.com:crazygit/ropsten-faucet-contracts.git
+[submodule "subgraph"]
+	path = subgraph
+	url = git@github.com:crazygit/ropsten-faucet-subgraph.git
